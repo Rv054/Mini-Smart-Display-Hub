@@ -1,0 +1,1 @@
+This personal project is to test my skills in building a DIY smart mini display hub like Amazon alexa or Google Nest Hub, but this won't be touch interactive. Everything here, will be done without any guided tutorials. This Project will test my Electrical, Coding and Hardware skills.
